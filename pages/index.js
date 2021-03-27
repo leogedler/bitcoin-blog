@@ -22,19 +22,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Bitcoin site</p>
-
-        <h1 className="title">
-          Read{' '}
-          <Link href="/posts/first-post">
-            <a>this page!</a>
-          </Link>
-        </h1>
-
-
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
 
 

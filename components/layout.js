@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Bitcoin';
-export const siteTitle = 'Next.js Sample for Bitcoin';
+export const siteTitle = 'Bitcoin blog';
 
 export default function Layout({ children, home }) {
     return (
